@@ -5,5 +5,5 @@ ATTENTION: you should change the databases used in PHP, also the data in them. T
 I have a table "TodosFuncionarios", that contains all the people to make answers about it.
 Table "Perguntas", have all the questions.
 Table "perguntas_possibleanswers", have the answers of all the users and shows it when necessary in game.
-Table "RespostasCertas", shows the right answers to each question of each use.
+Table "RespostasCertas", shows the right answer to each question of each person.
 
